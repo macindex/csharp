@@ -1,0 +1,39 @@
+dotnet --help
+
+dotnet new console -h (display help)
+
+
+
+dotnet new console -n DIO
+
+
+
+explorer . (abre o windows explorer)
+
+dotnet restore (restaura os pacotes)
+
+roslin (compilador do c#)
+
+dotnet build (restaura e pega o codigo fonte e compila)
+
+dotnet run
+
+System pacote do .NET
+
+
+
+sem estar no dir current para rodar o projeto 
+
+dotnet run -p DIO
+
+
+
+
+
+
+
+-------
+terminal konemo
+-------
+
+

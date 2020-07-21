@@ -1,0 +1,88 @@
+Conhecendo a CLI .NET
+
+
+dotnet --help
+
+documentação da interface .NET
+
+
+versão
+tipo de usabilidade | caminho da aplicação
+
+
+runtime options
+
+dotnet --info
+
+traz informações das versões instaladas
+
+new - cria novo projeto
+
+nuget - gerenciador de pacotes .NET
+
+publish
+
+restore
+
+run
+
+tool - semelhante ao npm
+
+
+
+dotnet --new --help
+
+
+
+
+
+wpf - aplicação desktop melhorada
+
+
+
+---------------
+Terminal konemo
+---------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

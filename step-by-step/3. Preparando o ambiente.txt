@@ -1,0 +1,56 @@
+about.me/gabrielfaraday
+
+
+1. Preparando o ambiente
+2. Conhecendo a CLI .NET
+3. Criando uma aplicação console
+
+
+.NET 3.0
+
+
+https://dotnet.microsoft.com/download
+download .net (SDK)
+
+docker run -it microsoft/dotnet:latest
+
+Dentro do container, você deve criar sua aplicação, de forma parecida com o que ocorre com o ruby on rails, para isso o .net core disponibiliza um utilitário chamado: dotnet, veja:
+
+
+LTS (Long Term Support) - suporte de 3 anos
+
+C# 8 Versão mais recente da gravação
+
+
+Terminal konemo
+
+dotnet --version
+
+3.0.101
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

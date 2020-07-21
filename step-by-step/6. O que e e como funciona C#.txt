@@ -1,0 +1,24 @@
+O que é C#
+
+Criada pelo handers
+
+C# criada no filnal de 90
+
+C# Linguagem elegante, OO e fortemente tipada
+
+A sintado C# é similar a do C, C++
+
+Compilador C# Roslyn
+
+O código e os recursos de IL são armazenados no disk em um file executável chamado assembly, geralmente com uma extensão .exe ou .dll
+
+Quando o program C# é executado, o assembly é carregado no CLR
+
+Em seguida o CLR executará a compilação just in time 
+
+CLR
+. Garbage collector
+. Exception handler
+. Resources manager
+
+Além dos serviços de tempo de execução, o .NET também inclui

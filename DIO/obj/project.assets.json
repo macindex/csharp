@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\holan\\Documents\\Digitalinovation\\bootcamp\\Carrefour bank - finish\\11. Primeiros passos com .net e C#\\DIO\\DIO.csproj",
+      "projectUniqueName": "C:\\Users\\holan\\Documents\\Digitalinovation\\bootcamp\\Carrefour bank - finish\\11. Primeiros passos com .net e C#\\csharp\\DIO\\DIO.csproj",
       "projectName": "DIO",
-      "projectPath": "C:\\Users\\holan\\Documents\\Digitalinovation\\bootcamp\\Carrefour bank - finish\\11. Primeiros passos com .net e C#\\DIO\\DIO.csproj",
+      "projectPath": "C:\\Users\\holan\\Documents\\Digitalinovation\\bootcamp\\Carrefour bank - finish\\11. Primeiros passos com .net e C#\\csharp\\DIO\\DIO.csproj",
       "packagesPath": "C:\\Users\\holan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\holan\\Documents\\Digitalinovation\\bootcamp\\Carrefour bank - finish\\11. Primeiros passos com .net e C#\\DIO\\obj\\",
+      "outputPath": "C:\\Users\\holan\\Documents\\Digitalinovation\\bootcamp\\Carrefour bank - finish\\11. Primeiros passos com .net e C#\\csharp\\DIO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\holan\\AppData\\Roaming\\NuGet\\NuGet.Config"

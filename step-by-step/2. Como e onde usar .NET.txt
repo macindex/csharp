@@ -1,0 +1,80 @@
+Como e onde usar .NET
+
+
+
+Infraestrutura para desenv de soft pela microsoft
+
+Uma aplicação .NET é desenv para e roda em uma das seguintes implementações do .NET:
+
+. .NETCore
+. .NET Framework
+. Mono
+. Universal Windows Plataform (UWP)
+
+
+
+Cada implementação inclui um ou mais .NET Runtimes (ambiente de execução):
+
+. .NETCore: CoreCLR e CoreRT
+. .NET Framework: CLR
+. Mono Runtime
+. UWP: NET Native
+
+
+Atualmente a Microsoft desenv e suporta 3 linguagens para .NET
+
+C#
+F#
+VB
+
+
+Onde?
+
+. Desktop
+. WEB
+. CLOUD
+. Mobile (XAMARIN)
+. GAMING
+. IOT
+. AI
+
+
+
+Quem usa?
+
+
+Casas bahia
+saraiva
+vidalink
+BR
+etc...
+
+stackoverflow
+
+Roslin (compilador c#)
+
+
+:: links ::
+
+https://dotnet.microsoft.com/download
+
+https://docs.microsoft.com/en-us/dotnet
+
+https://dotnetfoundation.org/
+
+
+AZURE
+
+https://azure.microsoft.com/pt-br
+
+Mono Project
+
+https://www.mono-project.com
+
+XAMARIN
+
+https://dotnet.microsoft.com/apps/xamarin
+
+
+
+
