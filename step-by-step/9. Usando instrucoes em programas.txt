@@ -1,0 +1,24 @@
+Ações de um programa são expressas usando instruções
+
+{
+	Um bloco que permite que várias instruções sejam escritas em contextos
+}
+
+. Declaração de var e const locais
+. if
+. switch
+. while
+. do
+. for
+. foreach
+
+
+Auxiliares
+
+. breack
+. continue
+. return
+. throw
+. try.. catch.. finaly
+. using
+
