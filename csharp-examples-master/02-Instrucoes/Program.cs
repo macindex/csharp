@@ -16,7 +16,7 @@ namespace Instrucoes
         static void InstrucaoIf(string[] args)
         {
             if (args.Length == 0)
-            {
+            { //args são argumentos
                 Console.WriteLine("Nenhum argumento");
             }
             else if (args.Length == 1)
