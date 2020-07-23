@@ -1,1 +1,4 @@
 Podemos declarar variáveis ou constantes
+
+
+ARRAY
