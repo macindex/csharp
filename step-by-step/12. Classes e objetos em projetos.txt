@@ -1,0 +1,75 @@
+namespace Classes.Heranca
+
+public class Ponto{
+	
+	pulic int x, y;
+
+	private int distancia;
+
+	public Ponto (int x, int y){
+	
+	this.x = x;
+	this.y = y;
+	
+	}
+	protected void CalcularDistancia(){
+		
+	//Faz algo
+	}
+	private void CalcularDistancia2(){
+	
+	//Faz algo
+	}
+	public virtual void CalcularDistancia3(){
+	//Faz algo
+	}
+
+}
+
+
+_________________________________
+
+//Classe só pode herdar de uma classe
+namespace Classes.Herança
+
+{
+	public class Ponto3D : Ponto{
+	
+	public int z;
+	
+	public Ponto3D(int x, int z, int y)
+: base(x, z){
+	this.z = z;
+	CalcularDistancia();
+	}	
+	public static void Calcular(){
+	//Faz algo
+	}
+	public override void CalcularDistancia3(){
+	//Faz algo
+	}
+	base.CalcularDistancia3();
+	
+	
+	}
+}
+//static pertence a classe
+
+___________________________________________
+METODOS
+
+ref
+
+out
+
+
+https://github.com/gabrielfbarros/csharp-examples
+
+
+
+
+
+
+
+
+
